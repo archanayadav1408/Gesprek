@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "725444291181",
+    "firebase_url": "https://gesprek-5dbf4.firebaseio.com",
+    "project_id": "gesprek-5dbf4",
+    "storage_bucket": "gesprek-5dbf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725444291181:android:2088c968e53f0eb0",
+        "android_client_info": {
+          "package_name": "com.example.android.gesprek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725444291181-4mojn1jal7b2tlngp8uetnsk97ik0h4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.gesprek",
+            "certificate_hash": "65029d0f9611eac3f0a2ff3d85d80e9f09cb882a"
+          }
+        },
+        {
+          "client_id": "725444291181-f9dquatp1r9fr79f7cu9ldh7m899p8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFa68GauCkJgVPTahE4SXeJLKkGfpc-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725444291181-f9dquatp1r9fr79f7cu9ldh7m899p8pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
