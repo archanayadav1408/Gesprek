@@ -11,5 +11,4 @@ Its Having features of
 - Seen Features etc.
 # DEMO 
 
-<div style="text-align:center">![alt text](https://github.com/archanayadav1408/Gesprek/blob/master/gesprek.gif)</div>
-
+<div style="text-align:center">  <img src ="https://github.com/archanayadav1408/Gesprek/blob/master/gesprek.gif"/></div>
